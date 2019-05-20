@@ -1,4 +1,4 @@
 2019.5.20 10:06
 Program:SpindleNet
     format_market 1501.py   NameError: name 'mkdir_if_missing' is not defined
-    solution:更改range，也有可能会出现json object error，解决方法也为在range前加上list；
+    solution:更改range，也有可能会出现json object error，解决方法也为在range前加上list；另外一种方法是把.py文件放到主目录下
