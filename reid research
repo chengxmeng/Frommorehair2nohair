@@ -1,0 +1,4 @@
+2019.5.20 10:06
+Program:SpindleNet
+    format_market 1501.py   NameError: name 'mkdir_if_missing' is not defined
+    solution:
