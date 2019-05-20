@@ -2,3 +2,5 @@
 Program:SpindleNet
     format_market 1501.py   NameError: name 'mkdir_if_missing' is not defined
     solution:更改range，也有可能会出现json object error，解决方法也为在range前加上list；另外一种方法是把.py文件放到主目录下
+    
+    make_lists.py  出现找不到meta.json的问题，原因是只用了一个数据集，而在代码中，相关的文件是在另一个数据集下生成，把两个生成的文件转移到特定的目录即可解决问题
