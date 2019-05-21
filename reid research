@@ -9,3 +9,6 @@ Program:SpindleNet
     
     
     在训练的时候，没有把caffe连接到项目的文件夹。
+    
+2019.5.21 09.09
+    安装caffe
